@@ -8,6 +8,7 @@ To make this plugin work you also need following plugins:
 "WooCommerce" by Automattic
 "WooCommerce Payments" by Automattic
 "UsersWP" by AyeCode
+"Code Snippets" by Code Snippets Pro
 
 In "Thanks Redirect for WooCommerce" you need to set the thanks redirect to:
 "<< yourURL >>/thanks"
